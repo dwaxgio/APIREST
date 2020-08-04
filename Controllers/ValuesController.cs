@@ -7,6 +7,7 @@ using System.Web.Http;
 
 namespace APIREST.Controllers
 {
+    // Valores de muestra para los metodos de HTTP
     public class ValuesController : ApiController
     {
         // GET api/values
